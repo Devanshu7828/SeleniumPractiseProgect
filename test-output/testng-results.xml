@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-24T11:34:17 IST" name="Default suite" finished-at="2024-11-24T11:34:50 IST" duration-ms="32739">
+    <groups>
+    </groups>
+    <test started-at="2024-11-24T11:34:17 IST" name="Default test" finished-at="2024-11-24T11:34:50 IST" duration-ms="32739">
+      <class name="Package.Test.FunctonalityCheck">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:Package.Test.FunctonalityCheck@3e08ff24]" started-at="2024-11-24T11:34:17 IST" name="launchApplication" finished-at="2024-11-24T11:34:24 IST" duration-ms="6070" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="E2EWebsiteTest(java.util.HashMap)[pri:0, instance:Package.Test.FunctonalityCheck@3e08ff24]" started-at="2024-11-24T11:34:24 IST" name="E2EWebsiteTest" data-provider="getData" finished-at="2024-11-24T11:34:50 IST" duration-ms="26194" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{password=testPass, product=Blue Top, email=Testinguser1@outlook.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- E2EWebsiteTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Package.Test.FunctonalityCheck@3e08ff24]" started-at="2024-11-24T11:34:50 IST" name="tearDown" finished-at="2024-11-24T11:34:50 IST" duration-ms="203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Package.Test.FunctonalityCheck -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

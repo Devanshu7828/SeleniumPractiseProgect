@@ -1,0 +1,26 @@
+[
+	
+	{
+		"email" : "Testinguser1@outlook.com",
+		"password" : "testPass",
+		"product" : "Blue Top"
+		},
+		{
+				"email" : "testuser7828@gmail.com",
+				"password" : "testuser7828",
+				"product" : "Stylish Dress"
+				},
+				{
+							"email" : "wrong@gmail.com",
+							"password" : "wrongPass",
+							"product" : "Stylish Dress"
+							}
+				
+				
+			
+		
+	
+	
+	
+	
+]
